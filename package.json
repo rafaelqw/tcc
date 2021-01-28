@@ -12,7 +12,7 @@
     "cors": "^2.8.4",
     "crypto-js": "^3.1.9-1",
     "debug": "~2.6.9",
-    "electron": "^2.0.8",
+    "electron": "^9.4.0",
     "express": "^4.16.4",
     "fcm-node": "^1.4.1",
     "fcm-notification": "^2.0.0",
